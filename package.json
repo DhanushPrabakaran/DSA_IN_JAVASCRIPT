@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "for dsa prepration",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "run": "node index.js"
   },
