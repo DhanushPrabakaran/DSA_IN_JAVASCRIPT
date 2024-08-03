@@ -15,6 +15,6 @@ class Solution{
         return res;
     }
 }
-let a = new Solution()
+const a = new Solution()
 
 console.log(a.posNegPair([1, -3, 2, 3, 6, -1, -3, 3]))
